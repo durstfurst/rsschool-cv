@@ -1,1 +1,1 @@
-https://durstfurst.github.io/rsschool-cv/cv
+https://durstfurst.github.io/rsschool-cv/
